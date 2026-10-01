@@ -37,8 +37,8 @@
 
 ##  Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-CR&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Cosme-CR&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCosme&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xCosme&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
 </p>
 
 
@@ -56,12 +56,12 @@
 
 ## Profile views
 <p align="center">
-  <img src="https://count.getloli.com/get/@Cosme-CR?theme=gelbooru" />
+  <img src="https://count.getloli.com/get/@0xCosme?theme=gelbooru" />
 </p>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cosme-CR/Cosme-CR/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cosme-CR/Cosme-CR/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cosme-CR/Cosme-CR/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xCosme/0xCosme/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xCosme/0xCosme/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xCosme/0xCosme/output/github-contribution-grid-snake.svg">
 </picture>
