@@ -1,13 +1,18 @@
-#  Hello World, I’m Cosme
 
-> **Systems Development Student | Linux User | Vim User**
+# Hello World, I'm Cosme
 
--  Estudante de **Desenvolvimento de Sistemas** (2/3) no **SENAI**.
--  Atualmente aprofundando em **Node.js**, **Bancos de Dados SQL** e **Linguagem C**.
--  Focado em **Segurança da Informação**: Pentest, Hardening.
--  Arch Linux & Neovim user.
+> **Backend Developer | Systems & Low-Level Enthusiast**
 
-##  Languages & Tools
+**I work with:** APIs, microservices, and web systems.
+
+**I study:** Go, C, Kotlin, and deployment.
+
+**I like:** C/C++, Linux, electronics, IoT, robotics, hardware, homelab, cybersecurity, games, game development, and 3D modeling.
+
+**Beyond code:** LOTR, Zelda, and Elden Ring.
+
+
+## Languages & Tools
 
 <p align="center">
   <!-- Operating System -->
@@ -18,27 +23,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" alt="Neovim" title="Neovim"/>
 
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="45" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" alt="Go" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="45" alt="Jetpack Compose" title="Jetpack Compose"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" title="MySQL"/>
+
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="TailwindCSS" title="TailwindCSS"/>
 
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" title="Git"/>
 
   <!-- Hardware / IoT -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" alt="Arduino" title="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="45" alt="C" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" title="C++"/>
 </p>
+
+
+
+
+
+
+
 
 ##  Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCosme&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=0xCosme&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
+
+
+
+
+
+
+
+
+
 </p>
 
 
