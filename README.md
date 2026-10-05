@@ -9,7 +9,7 @@
 
 **I like:** C/C++, Linux, electronics, IoT, robotics, hardware, homelab, cybersecurity, games, game development, and 3D modeling.
 
-**Beyond code:** LOTR, Zelda, and Elden Ring.
+**Beyond code:** LOTR, Zelda and Elden Ring.
 
 
 ## Languages & Tools
@@ -58,29 +58,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCosme&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=0xCosme&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
-
-
-
-
-
-
-
-
-
 </p>
 
 
 
 ##  Contact
-[![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)  
-
-
-
-
-<p align="center">
-  <img src="finalgit.gif" width="600" />
+<p>
+  <a href="https://0xcosme.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Cosme_Ribeiro-6D4AFF?logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:cosmecruztm1@proton.me">
+    <img src="https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Cosme-Ribeiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
+
+
+
+
+
 
 ## Profile views
 <p align="center">
