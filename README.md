@@ -54,12 +54,12 @@
 
 
 
+
 ##  Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCosme&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=0xCosme&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcosme&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,Cmake,dart,swift,typescript,makefile&langs_count=8&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xcosme&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
 </p>
-
 
 
 ##  Contact
