@@ -5,7 +5,7 @@
 
 **I work with:** APIs, microservices, and web systems.
 
-**I study:** Go, C, Kotlin, and deployment.
+**I study:** php, Go, C, Kotlin, and deployment.
 
 **I like:** C/C++, Linux, electronics, IoT, robotics, hardware, homelab, cybersecurity, games, game development, and 3D modeling.
 
